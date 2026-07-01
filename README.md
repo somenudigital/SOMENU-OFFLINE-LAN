@@ -14,11 +14,11 @@ Please note that you will still need an internet connection just for the initial
 
 ## Download Software
 
-Get the latest version of the SOMENU LAN POS Software and the Staff App (APK) directly from our releases page:
+Get the latest version of the SOMENU LAN POS Software and the Staff App directly from our releases page:
 
 **Supported OS:** Windows 10/11 x86-64 (64-bit)
 
-[![Download](https://raw.githubusercontent.com/somenudigital/SOMENU-OFFLINE-LAN/refs/heads/main/assets/downlaod.png)](https://github.com/somenudigital/SOMENU-OFFLINE-LAN/releases)
+<a href="https://github.com/somenudigital/SOMENU-OFFLINE-LAN/releases"><img src="https://raw.githubusercontent.com/somenudigital/SOMENU-OFFLINE-LAN/refs/heads/main/assets/downlaod.png" alt="Download" width="250"></a>
 
 ## Licensing for Premium Features
 
@@ -41,9 +41,9 @@ Your main computer (where the SOMENU desktop software is installed) acts as the 
 
 Your Main Server must be connected to a Wi-Fi router. This router acts as the central hub that broadcasts the network to your establishment. **Note:** The router does not need to provide internet access for daily operations; it simply provides a local Wi-Fi signal.
 
-### 3. Staff Mobile Devices (APK)
+### 3. Staff Mobile Devices
 
-Your staff members use Android devices installed with the **SOMENU Staff Application (APK)**. For the staff app to communicate with the Main Server and send orders to the kitchen or billing desk, it must be connected to the **same Wi-Fi router network** as the Main Server.
+Your staff members use Android devices installed with the **SOMENU Staff Application**. For the staff app to communicate with the Main Server and send orders to the kitchen or billing desk, it must be connected to the **same Wi-Fi router network** as the Main Server.
 
 ## Important Networking Rules
 
