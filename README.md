@@ -61,5 +61,6 @@ If a staff member device cannot connect to the system or orders are not going th
 2. **Check the Server PC**: Ensure the Main Server PC is turned on, the SOMENU software is open and running, and the PC is connected to the router.
 3. **Turn Off Mobile Data**: Sometimes mobile devices try to prioritize cellular data. Turn off Mobile Data on the staff devices to force them to use the local Wi-Fi network.
 4. **Restart Router**: If multiple devices are failing to connect, try restarting your Wi-Fi router.
+5. **Restart Applications**: Close the staff app completely and reopen it. You can also try closing and reopening the SOMENU desktop software on the Main Server.
 
 _Thank you for choosing SOMENU to manage your business operations!_
