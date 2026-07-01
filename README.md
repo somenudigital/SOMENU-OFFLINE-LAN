@@ -1,20 +1,20 @@
 # SOMENU Software User Guide
 
-Welcome to the **SOMENU Offline Point of Sale (POS) System**. This guide provides an overview of how the software operates and how to ensure your staff devices connect seamlessly to the system.
+Welcome to the **SOMENU Local Area Network (LAN) Point of Sale (POS) System**. This guide provides an overview of how the software operates and how to ensure your staff devices connect seamlessly to the system.
 
 ## Official SOMENU Cloud Platform
 
-SOMENU officially provides a comprehensive cloud based platform at **web.somenu.digital**. This online platform works exceptionally well with an active internet connection and includes all of our powerful features. You must create an account there to get started.
+SOMENU officially provides a comprehensive, fully-featured cloud-based platform. We highly encourage you to explore our Online POS at [web.somenu.digital](https://web.somenu.digital). This online platform works exceptionally well with an active internet connection and includes all of our powerful features. You must create an account there to get started.
 
-## Why Use The Offline Software?
+## Why Use The LAN Software?
 
-This offline software version is designed exclusively for establishments that face connectivity challenges. It is the perfect solution if your restaurant is in a mountainous area, lacks reliable internet, experiences slow internet speeds, or if you simply demand the absolute fastest processing speed possible. 
+This LAN-based software version is designed exclusively for establishments that face connectivity challenges. It is the perfect solution if your restaurant is in a mountainous area, lacks reliable internet, experiences slow internet speeds, or if you simply demand the absolute fastest processing speed possible. 
 
-Please note that you will still need an internet connection just for the initial login to the software. Once logged in, the system operates completely offline on your local network. We also provide a cloud syncing feature to safely back up your data to our servers whenever an internet connection is available.
+Please note that you will still need an internet connection just for the initial login to the software. Once logged in, the system operates completely within your local network. We also provide a cloud syncing feature to safely back up your data to our servers whenever an internet connection is available.
 
 ## Licensing for Premium Features
 
-The offline software operates on a different billing plan from our standard cloud platform. To unlock and access premium features within the software, you must purchase a specific software license. 
+The LAN software operates on a different billing plan from our standard cloud platform. To unlock and access premium features within the software, you must purchase a specific software license. 
 
 To acquire a license, please contact our support team at:
 * +91 80 9393 5050
@@ -22,7 +22,7 @@ To acquire a license, please contact our support team at:
 
 ## How It Works: The Local Area Network (LAN)
 
-Unlike cloud based systems that store data on the internet, this SOMENU version operates on a **Local Area Network (LAN)**. 
+Unlike cloud-based systems that store data on the internet, this SOMENU version operates on a **Local Area Network (LAN)**. 
 
 ### 1. The Main Server (Admin PC)
 Your main computer (where the SOMENU desktop software is installed) acts as the **Server**. All of your restaurant data including menus, tables, orders, and sales reports is securely stored directly on this computer.
