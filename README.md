@@ -4,7 +4,7 @@ Welcome to the **SOMENU Local Area Network (LAN) Point of Sale (POS) System**. T
 
 ## Official SOMENU Cloud Platform
 
-SOMENU officially provides a comprehensive, fully-featured cloud-based platform. We highly encourage you to explore our [Best POS System for Restaurants](https://www.somenu.digital) for all food businesses (Restaurant/Cafe/Cloud Kitchen). This online platform works exceptionally well with an active internet connection and includes all of our powerful features. You must create an account there to get started.
+SOMENU officially provides a comprehensive, fully-featured cloud-based platform. We highly encourage you to explore our [Best POS System for Restaurants](https://www.somenu.digital) and all food businesses (Restaurant/Cafe/Cloud Kitchen). This online platform works exceptionally well with an active internet connection and includes all of our powerful features. You must create an account there to get started.
 
 ## Why Use The LAN Software?
 
