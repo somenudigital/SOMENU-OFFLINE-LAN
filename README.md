@@ -18,7 +18,7 @@ Get the latest version of the SOMENU LAN POS Software and the Staff App (APK) di
 
 **Supported OS:** Windows 10/11 x86-64 (64-bit)
 
-[![Download](assets/download.png)](https://github.com/somenudigital/SOMENU-OFFLINE-LAN/releases)
+[![Download](/assets/download.png)](https://github.com/somenudigital/SOMENU-OFFLINE-LAN/releases)
 
 ## Licensing for Premium Features
 
