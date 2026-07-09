@@ -14,11 +14,23 @@ Please note that you will still need an internet connection just for the initial
 
 ## Download Software
 
-Get the latest version of the SOMENU LAN POS Software and the Staff App directly from our releases page:
+Download the latest version of the SOMENU LAN POS Software and the SOMENU Staff App from our official releases page.
 
-**Supported OS:** Windows 10/11 x86-64 (64-bit)
+**Supported Operating Systems**
+- Windows 10
+- Windows 11
 
-<a href="https://github.com/somenudigital/SOMENU-LAN/releases"><img src="https://raw.githubusercontent.com/somenudigital/SOMENU-LAN/refs/heads/main/assets/downlaod.png" alt="Download" width="250"></a>
+**Available Builds**
+- **x86 (32-bit)** – For older 32-bit Windows computers.
+- **x64 (64-bit)** – Recommended for most modern Windows PCs.
+- **ARM64** – For Windows devices powered by ARM processors.
+
+**Legacy Version**
+If your computer has an older processor that does not support the standard build (for example, older CPUs without modern instruction set support), download the **Legacy** version. It is specifically designed to provide compatibility with older hardware while offering the same core functionality.
+
+Choose the build that matches your system for the best performance and compatibility.
+
+<a href="https://github.com/somenudigital/SOMENU-LAN/releases"><img src="https://raw.githubusercontent.com/somenudigital/SOMENU-LAN/refs/heads/main/assets/downlaod.png" alt="Download SOMENU LAN POS" width="250"></a>
 
 ## Licensing for Premium Features
 
